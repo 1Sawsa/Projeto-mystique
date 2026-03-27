@@ -28,7 +28,7 @@ Site estático em HTML, CSS e JavaScript construído para exibir um catálogo de
 
 1. Clone ou copie os arquivos para a pasta local.
 2. Abra o terminal na pasta do projeto.
-3. Execute um servidor local (recomendado):
+3. Execute um servidor local (recomendado).
 4. Acesse `https://1sawsa.github.io/Projeto-mystique/` no navegador.
 
 ## 📝 Recursos do produto
